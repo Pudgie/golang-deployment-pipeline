@@ -40,7 +40,7 @@ Parameters:
     VPC:
         Description: Please enter the VPC ID
         Type: String
-        Default: vpc-eec3e788
+        Default: vpc-1cebb07a
 
     PublicSubnet1CIDR:
         Description: Please enter the IP range (CIDR notation) for the public subnet in the first Availability Zone
